@@ -10,7 +10,7 @@
 <?rfc sortrefs="yes"?>
 <?rfc symrefs="yes"?>
 
-<rfc ipr="trust200902" docName="draft-iab-rfcv3-preptool-03" category="info">
+<rfc ipr="trust200902" docName="draft-iab-rfcv3-preptool-bis" category="info">
 
   <front>
     <title>RFC v3 Prep Tool Description</title>
@@ -28,7 +28,7 @@
       </address>
     </author>
 
-    <date year="2016" month="July" day="18"/>
+    <date year="2016" month="August" day="11"/>
 
     
     
@@ -39,6 +39,11 @@
 
 <t>This document describes some aspects of the “prep tool” that is expected
 to be created when the new RFC v3 specification is deployed.</t>
+
+<t>This document is the successor to draft-iab-rfcv3-preptool, which is
+currently in the RFC Editor’s queue for publication. This -bis draft
+will be used for making changes based on implementation experience with
+the earlier draft.</t>
 
 <!--
 
